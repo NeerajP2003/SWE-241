@@ -1,4 +1,5 @@
 # SWE-241
+Order of Files by Module
 
 Module 2
 
@@ -22,4 +23,4 @@ Module 5
 
 EightQueens.java
 PermutationChecker.java
-Test.java
+Test2.java
